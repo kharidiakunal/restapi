@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "package insta",
+		"selected_items":
+		[
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/restapi/config/cache.php",
+		"/D/xampp/htdocs/restapi/config/cors.php",
+		"/D/xampp/htdocs/restapi/config/auth.php",
+		"/D/xampp/htdocs/restapi/config/app.php",
+		"/D/xampp/htdocs/restapi/app/User.php",
+		"/D/xampp/htdocs/restapi/app/Exceptions/Handler.php",
+		"/D/xampp/htdocs/angular/like_app/main.js",
+		"/D/xampp/htdocs/lynda/designpatterns/README.md",
+		"/D/xampp/htdocs/httpclient/app/Exceptions/Handler.php",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/example/composer.json",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/example/user.php",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/example/index.php",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/after/user.php",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/after/index.php",
+		"/D/xampp/htdocs/testblog/resources/views/blog/index.blade.php",
+		"/D/xampp/htdocs/testblog/resources/views/layouts/sidebar.blade.php",
+		"/D/xampp/htdocs/testblog/resources/views/blog/show.blade.php",
+		"/D/xampp/htdocs/testblog/resources/views/layouts/main.blade.php",
+		"/D/xampp/htdocs/testblog/app/Http/routes.php",
+		"/D/xampp/htdocs/testblog/app/Http/Controllers/BlogController.php",
+		"/D/xampp/htdocs/testblog/database/migrations/2016_07_27_042414_alter_posts_add_published_at_column.php",
+		"/D/xampp/htdocs/pms/activecollab/angie/functions/environment.php",
+		"/D/xampp/htdocs/pms/activecollab/angie/classes/AngieObject.class.php",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/before/user.php",
+		"/D/xampp/htdocs/lynda/designpatterns/01-Active-Record/before/index.php",
+		"/D/xampp/htdocs/testblog/app/User.php",
+		"/D/udemy/laravel blog/blog-index-2/blog-index-2/app/Http/Controllers/BlogController.php",
+		"/D/xampp/htdocs/testblog/composer.json",
+		"/D/udemy/laravel blog/post-model-with-migration/post-model-with-migration/database/migrations/2016_07_25_134316_create_posts_table.php",
+		"/D/xampp/htdocs/pms/index.php",
+		"/D/xampp/htdocs/activelicense.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/angie/functions/environment.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/angie/classes/auth/Authentication.class.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/angie/hooks.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/application/init.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/application/modules/milestones/controllers/MilestonesController.class.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/application/modules/milestones/lang_index.php",
+		"/D/xampp/htdocs/corporate/for-upload/activecollab/application/modules/milestones/MilestonesModule.class.php",
+		"/D/xampp/htdocs/testblog/database/migrations/2018_06_14_123541_create_posts_table.php",
+		"/D/xampp/htdocs/testblog/database/migrations/2018_06_17_124711_alter_posts_add_published_at_column.php",
+		"/D/udemy/laravel blog/blog-index-2/blog-index-2/resources/views/blog/index.blade.php",
+		"/D/xampp/htdocs/testblog/app/Post.php",
+		"/D/udemy/laravel blog/blog-index-2/blog-index-2/app/User.php",
+		"/D/udemy/laravel blog/blog-index-2/blog-index-2/app/Post.php",
+		"/D/udemy/laravel blog/blog-index-1/blog-index-1/app/Post.php",
+		"/D/xampp/htdocs/testblog/config/database.php",
+		"/D/xampp/htdocs/testblog/.env.example",
+		"/D/xampp/htdocs/testblog/storage/logs/laravel.log",
+		"/D/udemy/laravel blog/blog-index-1/blog-index-1/resources/views/blog/index.blade.php",
+		"/D/udemy/laravel blog/blog-index-1/blog-index-1/app/Http/Controllers/BlogController.php",
+		"/D/udemy/laravel blog/blog-index-1/blog-index-1/app/Http/routes.php",
+		"/D/xampp/htdocs/testblog/database/seeds/UserTableSeeder.php",
+		"/D/xampp/htdocs/testblog/database/seeds/DatabaseSeeder.php",
+		"/D/xampp/htdocs/testblog/database/seeds/PostTableSeeder.php",
+		"/D/xampp/htdocs/testblog/database/seeds/PostsTableSeeder.php",
+		"/D/xampp/htdocs/testblog/database/seeds/UsersTableSeeder.php",
+		"/D/udemy/laravel blog/posts-table-seeder/database/seeds/DatabaseSeeder.php",
+		"/D/udemy/laravel blog/posts-table-seeder/database/seeds/PostsTableSeeder.php",
+		"/D/udemy/laravel blog/posts-table-seeder/database/seeds/UsersTableSeeder.php",
+		"/D/udemy/laravel blog/post-model-with-migration/post-model-with-migration/database/seeds/DatabaseSeeder.php",
+		"/D/xampp/htdocs/testblog/.env",
+		"/D/xampp/htdocs/testblog/config/app.php",
+		"/D/xampp/htdocs/firehouse/index.php",
+		"/D/xampp/htdocs/index.php",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DIa0.596/date-and-time-shortcode.php",
+		"/D/practice-node/app.js",
+		"/D/practice-node/public/assets/styles.css",
+		"/D/practice-node/public/assets/todo-list.js",
+		"/D/practice-node/views/todo.ejs",
+		"/D/practice-node/controllers/todoController.js",
+		"/F/nodejs/chat/app.js",
+		"/D/practice-node/package.json",
+		"/D/node-js-playlist-master/node-js-playlist-master/Practice/#1 code of the play list.js",
+		"/D/practice-node/assets/todo-list.js",
+		"/D/xampp/htdocs/angular/hello-world/test.js",
+		"/D/xampp/htdocs/composer/classes/Move.php",
+		"/D/udemy/composer dependency manager/autoload-dev-depn-update/composer/classes/Move.php",
+		"/D/xampp/htdocs/composer/vendor/autoload.php",
+		"/D/xampp/htdocs/nodejs/node.js",
+		"/D/xampp/htdocs/httpclient/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/D/xampp/htdocs/httpclient/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php",
+		"/D/udemy/laravel httpclient/HttpClient-master/HttpClient-master/app/Http/Controllers/CourseController.php",
+		"/D/xampp/htdocs/httpclient/vendor/guzzlehttp/guzzle/src/Client.php",
+		"/D/xampp/htdocs/httpclient/app/Http/Controllers/Controller.php",
+		"/D/xampp/htdocs/httpclient/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/D/xampp/htdocs/httpclient/app/Console/Kernel.php",
+		"/D/softwares/Sublime/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "restapi.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"illuminate/foundation/exceptions/",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Debug\\ExceptionHandler.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
